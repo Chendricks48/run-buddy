@@ -109,6 +109,14 @@ section {
   margin-bottom: 15px;
 }
 
+.hero h1 {
+  color: #fce138;
+  font-size: 36px;
+}
+ .hero p {
+   color: white;
+ }
+
 .hero-form label {
   margin: 0 5px;
 }
